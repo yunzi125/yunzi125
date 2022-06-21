@@ -10,7 +10,6 @@
 
 👀 I’m interested in
 - Blockchain
-- Frontend (Android)
 - Artificial Intelligence
 - Machine Learning
 
