@@ -2,16 +2,9 @@
 
 
 
-:fire: I'm good at using
-- Android studio <img src="https://img.shields.io/badge/Java-ED1A3A?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-- Pycharm <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-
-
-
 👀 I’m interested in
 - Blockchain
-- Artificial Intelligence
-- Machine Learning
+- Cyber security
 
 
 
@@ -25,7 +18,6 @@
 📫 How to reach me ...
 - <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> - @yundimotti
 - <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> - iyunji323@gmail.com
-- <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/> - yunmouse125@naver.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunzi125&langs_count=8)](https://github.com/yunzi125/github-readme-stats)
 
