@@ -1,10 +1,12 @@
-👋 Hi, I’m YunjiLee
+👋 Hi, I’m YunjiLee.
+🌏 I'm in Seoul, South Korea.
 
 
 
 👀 I’m interested in
 - Blockchain
 - Cyber security
+- Vulnerability diagnosis
 
 
 
@@ -16,7 +18,6 @@
 
 
 📫 How to reach me ...
-- <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> - @yundimotti
 - <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> - iyunji323@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunzi125&langs_count=8)](https://github.com/yunzi125/github-readme-stats)
