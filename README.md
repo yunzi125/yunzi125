@@ -1,20 +1,34 @@
-👋 Hi, I’m YunjiLee.
+👋 Hi, I’m Yunji Lee.
+
+	
 
 🌏 I'm in Seoul, South Korea.
 
 
 
+👩🏻‍💻 Career
+- SK Shieldus Rookies 10th
+- AhnLab Assistant Consultant
+
+
+
+🐥 Specialized Ability
+- Vulnerability Diagnosis ( Infra / Web / Android / iOS )
+- Scenario-based Hacking
+
+
+
 👀 I’m interested in
+- Cyber Security
+- Bug Bounty
 - Blockchain
-- Cyber security
-- Vulnerability diagnosis
+- Cryptography
 
 
-
-🌱 I’m currently studying
 
 <!-- <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/> -->
-<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+<!-- <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> -->
+
 
 
 
