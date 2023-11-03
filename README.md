@@ -1,3 +1,4 @@
+<img style="width: inherit;" src="http://hits.dwyl.com/dev-yakuza.github.io{{ page.url }}.svg" alt="hit count image"/>
 👋 Hi, I’m Yunji Lee.
 
 	
