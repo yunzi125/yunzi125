@@ -8,12 +8,12 @@
 
 👩🏻‍💻 Career
 - SK Shieldus Rookies 10th
-- AhnLab Assistant Consultant
+- AhnLab Assistant Security Consultant
 
 
 
-🐥 Specialized Ability
-- Vulnerability Diagnosis ( Infra / Web / Android / iOS )
+🐥 Main tasks and Capabilities
+- Vulnerability Diagnosis ( Web / Android / iOS / CS )
 - Scenario-based Hacking
 
 
