@@ -1,24 +1,25 @@
-👋 Hi, I’m Yunji Lee.
+#### 👋 Hi, I’m Yunji Lee.
 
 	
 
-🌏 I'm in Seoul, South Korea.
+#### 🌏 I'm in Seoul, South Korea.
 
 
 
-👩🏻‍💻 Career
+#### 👩🏻‍💻 Career
 - SK Shieldus Rookies 10th
 - AhnLab Assistant Security Consultant
 
 
 
-🐥 Main tasks and Capabilities
+#### 🐥 Main tasks and Capabilities
 - Vulnerability Diagnosis ( Web / Android / iOS / CS )
 - Scenario-based Hacking
+- Automation Vulnerability Diagnosis Tool Making
 
 
 
-👀 I’m interested in
+#### 👀 I’m interested in
 - Cyber Security
 - Bug Bounty
 - Blockchain
@@ -32,7 +33,7 @@
 
 
 
-📫 How to reach me ...
+#### 📫 How to reach me ...
 - <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> - iyunji323@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunzi125&langs_count=8)](https://github.com/yunzi125/github-readme-stats)
