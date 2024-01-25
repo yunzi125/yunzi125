@@ -7,8 +7,8 @@
 
 
 #### 👩🏻‍💻 Career
-- SK Shieldus Rookies 10th
-- AhnLab Assistant Security Consultant
+- AhnLab Assistant Security Consultant (2023.06 ~)
+- SK Shieldus Rookies 10th (2022.11 ~ 2023.05)
 
 
 
