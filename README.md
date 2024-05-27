@@ -14,13 +14,13 @@
 
 ### 🐥 Main tasks and Capabilities
 - Vulnerability Diagnosis ( Web / Android / iOS / CS )
-- Scenario-based Hacking
+- Offensive Security Consulting
 - Automation Vulnerability Diagnosis Tool Making
 
 
 
 ### 👀 I’m interested in
-- Cyber Security
+- Offensive Security
 - Bug Bounty
 - Blockchain
 - Cryptography
